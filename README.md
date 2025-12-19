@@ -2,6 +2,8 @@
 
 **[🇧🇷 Leia em Português](README-PT.md)**
 
+![Mabesi NFT Collection Banner](./banner.png)
+
 A complete ERC721 NFT smart contract implementation built with OpenZeppelin contracts and Hardhat development environment.
 
 ## :speech_balloon: Description
